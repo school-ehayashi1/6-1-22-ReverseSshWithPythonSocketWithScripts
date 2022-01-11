@@ -1,8 +1,14 @@
+
 # A Beginner's Guide to a Reverse Shell Usb 
 *By US_ML_ehayashi1 and MarkAppprogrammer*
 
 
 *Requires netcat for the user
+Copyright (c) 2022 US_ML_ehayashi1, MarkAppprogrammer
+All rights reserved.
+
+This source code is licensed under the MIT-style license found in the
+LICENSE file in the root directory of this source tree. 
 
 
 In this repo we illustrate a basic client and server script for executing reverse shells. The basic theorized method for use is to download the client and cmd.txt onto a USB. *Please note that you must enable auto play for the client program to automatically execute once plugged in.* 
